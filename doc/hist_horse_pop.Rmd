@@ -3,6 +3,7 @@ title: "Historical horse population in Canada"
 output: 
   github_document:
     toc : true
+    bibliography: horse_pop_refs.bib
 ---
 
 ```{r setup, include=FALSE}
